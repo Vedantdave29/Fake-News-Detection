@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+nltk
+joblib
+
+-> All this Libraries must be installed on Your PC.
